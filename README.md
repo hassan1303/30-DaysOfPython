@@ -3,6 +3,7 @@
 My 30 days of python Exercises at Arewa DataScience , here are the list of Exercises.
 
 1 Introduction
+
 2 Variables,Built-in Function
 3 Operators
 4 Strings
